@@ -1,2 +1,2 @@
-# Judd_1998
-Numerical Methods in Economics - I report here some of the exercise in the book solved in Python
+# Judd(1998) Numerical Methods in Economics
+In this reposithory, I report some of the exercises presented in the book solved with Python.
